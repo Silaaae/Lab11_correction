@@ -1,0 +1,4 @@
+<resources>
+    <style name="Base.Theme.Lab11Correction" parent="Theme.Material3.DayNight.NoActionBar" />
+    <style name="Theme.Lab11Correction" parent="Base.Theme.Lab11Correction" />
+</resources>
