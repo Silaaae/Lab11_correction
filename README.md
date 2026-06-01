@@ -54,6 +54,7 @@ CREATE TABLE position (
     imei VARCHAR(50)
 );
 ```
+<img width="1024" height="659" alt="image" src="https://github.com/user-attachments/assets/82c16c81-b64b-42aa-a11b-60cf10abefd5" />
 
 - Copier le dossier `server/` dans `htdocs/localisation/`
 
@@ -62,8 +63,3 @@ CREATE TABLE position (
 - Modifier la variable `SERVER_URL` dans `MainActivity.java` avec l'adresse IP de votre machine
 - Lancer l'application sur un émulateur ou un vrai appareil
 
----
-
-## Aperçu
-
-> Les captures d'écran ci-dessous montrent l'interface de l'application et les données reçues dans la base.
